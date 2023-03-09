@@ -8,7 +8,7 @@ public class PrimeNumber {
 		System.out.println("enter array size");
 		int n = sc.nextInt();
 		int[] ar = new int[n];
-		System.out.println("enter array elements");
+		System.out.println("enter array elements for findin the prime number");
 		for (int i = 0; i < n; i++) {
 			ar[i] = sc.nextInt();
 		}
