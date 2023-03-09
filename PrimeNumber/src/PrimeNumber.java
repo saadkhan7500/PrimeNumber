@@ -20,7 +20,7 @@ public class PrimeNumber {
 		}
 	}
 	
-	public static  isPrime(int n)
+	public static boolean isPrime(int n)
 	{
 		int count=0;
 		for(int i=1;i<=n;i++)
